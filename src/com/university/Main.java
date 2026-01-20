@@ -60,8 +60,8 @@ public class Main {
         userManager.createUser("STUDENT", "3", "rugagi", "30054",
                                "Rugagi", "rugagi@university.edu",
                                "STU30054", "Computer Science", "2");
-        userManager.createUser("STUDENT", "4", "mahammed", "29956",
-                               "Mahammed", "mahammed@university.edu",
+        userManager.createUser("STUDENT", "4", "mohammed", "29956",
+                               "Mohammed", "mohammed@university.edu",
                                "STU29956", "Computer Science", "2");
         userManager.createUser("STUDENT", "5", "tunga", "29602",
                                "Tunga", "tunga@university.edu",
@@ -643,3 +643,4 @@ public class Main {
     }
 
 }
+
