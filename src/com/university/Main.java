@@ -30,8 +30,7 @@ public class Main {
         initializeSystem();
         displayMainMenu();
     }
-
-    private static void initializeSystem() {
+private static void initializeSystem() {
         System.out.println("Initializing system...");
         dataRepository = new FileRepository();
         System.out.println("Loading data from files...");
@@ -643,4 +642,5 @@ public class Main {
     }
 
 }
+
 
