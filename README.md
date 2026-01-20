@@ -45,11 +45,17 @@ Permissions: Course management, grade assignment, roster viewing
 ### Student Credentials:
 ### Student Name	Username	Password	Student ID
 Rugagi	rugagi	30054	STU30054
+
 Mohammed	mohammed	29956	STU29956
+
 Tunga	tunga	29602	STU29602
+
 Bruno	bruno	30245	STU30245
+
 Yacoub	yacoub	29657	STU29657
+
 Munib	munib	30011	STU30011
+
 Adil	adil	30119	STU30119
 
 ### Installation
