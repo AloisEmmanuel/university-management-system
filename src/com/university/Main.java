@@ -10,7 +10,6 @@ import com.university.auth.*;
 import com.university.persistence.*;
 import java.util.*;
 
-
 public class Main {
     private static UserManager userManager;
     private static CourseManager courseManager;
@@ -642,4 +641,5 @@ public class Main {
     private static String generateId() {
         return "ID" + System.currentTimeMillis() + (int)(Math.random() * 1000);
     }
+
 }
